@@ -25,9 +25,9 @@ namespace XelaTechSoporte
             {
                 Console.Clear();
                 Console.WriteLine();
-                Console.WriteLine(new string('=', 44));
+                Console.WriteLine("============================================");
                 Console.WriteLine("              XELATECH SOPORTE");
-                Console.WriteLine(new string('=', 44));
+                Console.WriteLine("============================================");
                 Console.WriteLine(" 1. Gestión de clientes");
                 Console.WriteLine(" 2. Gestión de técnicos");
                 Console.WriteLine(" 3. Gestión de equipos");
@@ -39,7 +39,7 @@ namespace XelaTechSoporte
                 Console.WriteLine(" 9. Reportes");
                 Console.WriteLine("10. Generar datos de prueba");
                 Console.WriteLine("11. Salir");
-                Console.WriteLine(new string('-', 44));
+                Console.WriteLine("============================================");
 
                 int opcion = Consola.LeerEntero("Seleccione una opción (1-11): ", 1, 11);
                 try
