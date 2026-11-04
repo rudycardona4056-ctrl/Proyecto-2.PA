@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bMnHpC0bWSs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto 02 Fase 1 XelaTech\\XelaTechSoporte Fase2 Proyecto\\XelaTech\\XelaTechSoporte\\XelaTechSoporte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.33\\microsoft.netcore.app.host.win-x64.8.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

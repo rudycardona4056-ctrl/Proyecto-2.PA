@@ -1,0 +1,15 @@
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\bin\Debug\net8.0\XelaTechSoporte.exe
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\bin\Debug\net8.0\XelaTechSoporte.deps.json
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\bin\Debug\net8.0\XelaTechSoporte.runtimeconfig.json
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\bin\Debug\net8.0\XelaTechSoporte.dll
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\bin\Debug\net8.0\XelaTechSoporte.pdb
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\obj\Debug\net8.0\XelaTechSoporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\obj\Debug\net8.0\XelaTechSoporte.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\obj\Debug\net8.0\XelaTechSoporte.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\obj\Debug\net8.0\XelaTechSoporte.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\obj\Debug\net8.0\XelaTechSoporte.dll
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\obj\Debug\net8.0\refint\XelaTechSoporte.dll
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\obj\Debug\net8.0\XelaTechSoporte.pdb
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\obj\Debug\net8.0\XelaTechSoporte.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\obj\Debug\net8.0\ref\XelaTechSoporte.dll
+C:\Users\Usuario\Downloads\XelaTechSoporte_Fase2_ProyectoVisualStudio\XelaTech\XelaTechSoporte\obj\Debug\net8.0\XelaTech.E54D2FC1.Up2Date
